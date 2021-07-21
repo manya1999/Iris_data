@@ -1,2 +1,3 @@
 # Iris_data
- k-nearest neighbour and decision tree classifier on iris dataset 
+ kmeans clustering on iris dataset
+ 
